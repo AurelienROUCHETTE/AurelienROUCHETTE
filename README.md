@@ -4,15 +4,15 @@
 
 I'm Aurélien, junior web developer based in Paris.🗽
 
-- 💻 I've been training as a web and mobile web developer at o'Clock for the past six months.
-- 🔭 I’m currently working on an end-of-training project.
-- 🌱 I'm currently learning how to develop an entire site using Symfony, the framework which I specialize in.
-- 🤔 I’m currently looking for an internship and/or a work-study position, I aim to perfect my development skills. 
+- 💻 I've just completed a six-month web and mobile web developer training course at o'Clock.
+- 🔭 I recently worked on an end-of-training project as part of a team.
+- 🌱 I learned how to develop an entire site using Symfony, the framework which I specialized in.
+- 🤔 I’m currently looking for a work-study position, with the aim of perfecting my development skills and putting them to good use within a company. 
 - 💬 Feel free to get in touch.
 
-En formation de développeur web et web mobile chez o'Clock depuis ces six derniers mois, je travaille actuellement sur un projet de fin de formation.
-J'apprends actuellement comment développer l'intégralité d'un site internet avec Symfony, l'infrastructure de développement dans laquelle je me spécialise. 
-Actuellement à la recherche d'un stage et/ou d'un emploi en alternance, j'ai pour objectif de perfectionner mes compétences en matière de développement.
+À la fin de la formation de développeur web et web mobile d'une durée de six mois chez o'Clock que je viens de suivre, j'ai travaillé sur un projet en équipe.
+J'ai appris comment développer l'intégralité d'un site internet avec Symfony, l'infrastructure de développement dans laquelle je me suis spécialisée. 
+Actuellement à la recherche d'un emploi en alternance, j'ai pour objectif de perfectionner mes compétences en matière de développement et de les mettre à profit au sein d'une entreprise.
 
 N'hésitez pas à me contacter. 
 
