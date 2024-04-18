@@ -12,7 +12,7 @@ I'm Aurélien, junior web developer based in Paris.🗽
 
 À la fin de la formation de développeur web et web mobile d'une durée de six mois chez o'Clock que je viens de suivre, j'ai travaillé sur un projet en équipe.
 J'ai appris à développer un site internet complet avec Symfony, l'infrastructure de développement dans laquelle je me suis spécialisée. 
-Actuellement à la recherche d'un emploi en alternance, mob objectif est de perfectionner mes compétences en matière de développement et de les mettre à profit au sein d'une entreprise.
+Actuellement à la recherche d'un emploi en alternance, mon objectif est de perfectionner mes compétences en matière de développement et de les mettre à profit au sein d'une entreprise.
 
 N'hésitez pas à me contacter. 
 
