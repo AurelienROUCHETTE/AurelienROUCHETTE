@@ -5,11 +5,11 @@
 I'm Aurélien, junior web developer based in Paris.🗽
 
 
-• 💻 Recently completed a two-month internship with a Paris-based association, following a six-month web and mobile web developer training at O'Clock.
-• 🔭 Worked on an end-of-training team project, and contributed to a site offering courses created by teachers during the internship.
-• 🌱 Gained expertise in Symfony during the training, and strengthened my skills in PHP and its Laravel framework, as well as in HTML, CSS, and JavaScript throughout the internship.
-• 🤔 Currently seeking a work-study position to further develop my skills and contribute to a dynamic team. 
-• 💬 Open to connecting and discussing opportunities!
+• 💻 Recently completed a two-month internship with a Paris-based association, following a six-month web and mobile web developer training at O'Clock.   
+• 🔭 Worked on an end-of-training team project, and contributed to a site offering courses created by teachers during the internship.  
+• 🌱 Gained expertise in Symfony during the training, and strengthened my skills in PHP and its Laravel framework, as well as in HTML, CSS, and JavaScript throughout the internship.  
+• 🤔 Currently seeking a work-study position to further develop my skills and contribute to a dynamic team.  
+• 💬 Open to connecting and discussing opportunities!  
 
 
 J'ai récemment terminé un stage de deux mois au sein d'une association basée à Paris, après avoir suivi une formation de six mois en développement web et mobile à l'école O'Clock. 
